@@ -1,0 +1,7 @@
+https://coolors.co/ff9f1c-ffbf69-174d64-ffffff-9cafb7-950952
+
+<p>Hi, my name is Glenn Mendonca.<br>
+        Currently a First Year batchelor,  pursuing 
+        Computer Engineering at @CRCE.<br> I am passionate about programming, 
+        currently working on <strong>JavaScript</strong> and strengthning my <strong>DSA</strong>.<br>
+        New to the Open Source World hence would like to contribute.</p>
